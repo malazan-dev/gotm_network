@@ -1,2 +1,2 @@
-# gotm_network
-Network cluster analysis for Steven Erikson's Gardens of the Moon
+# malazan_character_interactions
+Network cluster analysis for Steven Erikson's Gardens of the Moon, Deadhouse Gates
