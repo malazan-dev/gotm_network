@@ -1,2 +1,2 @@
 # gotm_network
-Network cluster for Gardens of the Moon
+Network cluster analysis for Steven Erikson's Gardens of the Moon
